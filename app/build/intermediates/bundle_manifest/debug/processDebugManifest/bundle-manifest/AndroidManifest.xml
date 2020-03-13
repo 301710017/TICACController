@@ -19,7 +19,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
         <activity
-            android:name="com.example.ticaccontroller.Register"
+            android:name="com.example.ticaccontroller.SingUp"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.example.ticaccontroller.LoginActivity"

@@ -646,6 +646,7 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable bg_color
+drawable bg_color_singup
 drawable button_login
 drawable button_register
 drawable button_social
@@ -675,6 +676,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_lock_white_24dp
 drawable ic_mail_white_24dp
+drawable input
 drawable logo
 drawable notification_action_background
 drawable notification_bg
@@ -692,9 +694,12 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
 id CTRL
+id ConfirmPassword
+id Email
 id FUNCTION
 id ImgLogo
 id META
+id Password
 id SHIFT
 id SYM
 id TxtEmail
@@ -732,6 +737,7 @@ id blocking
 id bottom
 id btnLogin
 id btnRegister
+id btnSingIn
 id buttonPanel
 id center
 id center_horizontal
@@ -744,6 +750,7 @@ id clip_vertical
 id collapseActionView
 id content
 id contentPanel
+id crear_cuenta
 id custom
 id customPanel
 id dark
@@ -843,6 +850,7 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id txtReady
 id uniform
 id up
 id useLogo
@@ -886,7 +894,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
-layout activity_register
+layout activity_sing_up
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -901,7 +909,11 @@ mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string Email
+string Forgot
 string Password
+string Pwd
+string ReadyAccount
+string SingIn
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -942,6 +954,7 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string btnCount
 string btnLogin
 string btnRegister
 string common_google_play_services_enable_button

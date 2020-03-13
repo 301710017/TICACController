@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TIC AC Controller</string>
-    <string name="Email">Email</string>
+    <string name="Email">Email Address</string>
     <string name="Password">Password</string>
     <string name="btnRegister">Register</string>
     <string name="btnLogin">Login</string>
+    <string name="Pwd">Confirm Password</string>
+    <string name="btnCount">Create an account</string>
+    <string name="Forgot">Forgot your password?</string>
+    <string name="SingIn">Log In</string>
+    <string name="ReadyAccount">Do you have an account?</string>
 </resources>

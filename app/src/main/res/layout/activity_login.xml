@@ -53,12 +53,24 @@
         android:textAllCaps="false"
         android:drawableLeft="@drawable/ic_lock_white_24dp"/>
 
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:gravity="end"
+        android:text="@string/Forgot"
+        android:textColor="#fff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TxtPassword" />
+
     <Button
         android:id="@+id/btnLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="60dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/button_login"
         android:text="@string/btnLogin"
@@ -71,7 +83,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
-        android:layout_marginTop="76dp"
+        android:layout_marginTop="120dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/button_register"
         android:text="@string/btnRegister"
@@ -85,7 +97,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="180dp"
         android:layout_marginEnd="32dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
