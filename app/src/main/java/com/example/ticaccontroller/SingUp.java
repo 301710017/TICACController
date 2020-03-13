@@ -23,6 +23,7 @@ public class SingUp extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(v.getContext(), LoginActivity.class);
                 startActivityForResult(intent, 0);
+                finish();
             }
         });
 
