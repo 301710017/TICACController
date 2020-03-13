@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".SingUp"
-            android:screenOrientation="portrait"></activity>
-
+        <activity android:name=".SplashBackActivity"></activity>
+        <activity
+            android:name=".SingUp"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".LoginActivity"
             android:screenOrientation="portrait">

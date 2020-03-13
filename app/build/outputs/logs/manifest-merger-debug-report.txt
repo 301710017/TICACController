@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\322b93496bc0a8d8306a6c7db877b529\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\81a362b35962fa2496d450cbee5c4ecc\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
@@ -37,25 +37,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Usuario\.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\cf1beec41d3606c2f878b1c5dd26a539\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5e0444443ffb82f923834973bbf621d3\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5080ea4c3a94602e590d65de9668e7d9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\81a362b35962fa2496d450cbee5c4ecc\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\81a362b35962fa2496d450cbee5c4ecc\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
@@ -84,34 +84,38 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Us
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-59
+activity#com.example.ticaccontroller.SplashBackActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:9-65
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:19-53
 activity#com.example.ticaccontroller.SingUp
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:9-13:61
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:9-15:52
 	android:screenOrientation
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:13-49
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:15:13-49
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:19-41
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:14:13-35
 activity#com.example.ticaccontroller.LoginActivity
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:9-24:20
 	android:screenOrientation
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:17:13-49
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:18:13-49
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:13-42
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:17:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.example.ticaccontroller.MainActivity
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:24:9-26:52
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:25:9-27:52
 	android:screenOrientation
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:27:13-49
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:26:13-41
 uses-sdk
 INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml

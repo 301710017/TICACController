@@ -11,7 +11,7 @@
 9-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:5:5-27:19
+11-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:5:5-28:19
 12        android:allowBackup="true"
 12-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -25,38 +25,40 @@
 17-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.AppCompat.NoActionBar" >
-20-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-59
+19        android:theme="@style/Theme.AppCompat.NoActionBar" >
+19-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-59
+20        <activity android:name="com.example.ticaccontroller.SplashBackActivity" />
+20-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:9-65
+20-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:19-53
 21        <activity
-21-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:9-13:61
+21-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:9-15:52
 22            android:name="com.example.ticaccontroller.SingUp"
-22-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:19-41
+22-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:14:13-35
 23            android:screenOrientation="portrait" />
-23-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:13-49
+23-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:15:13-49
 24        <activity
-24-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:15:9-23:20
+24-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:9-24:20
 25            android:name="com.example.ticaccontroller.LoginActivity"
-25-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:13-42
+25-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:17:13-42
 26            android:screenOrientation="portrait" >
-26-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:17:13-49
+26-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:18:13-49
 27            <intent-filter>
-27-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:18:13-22:29
+27-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:13-23:29
 28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:17-69
-28-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:25-66
+28-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:20:17-69
+28-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:20:25-66
 29
 30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:21:17-77
-30-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:21:27-74
+30-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:22:17-77
+30-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:22:27-74
 31            </intent-filter>
 32        </activity>
 33        <activity
-33-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:24:9-26:52
+33-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:25:9-27:52
 34            android:name="com.example.ticaccontroller.MainActivity"
-34-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:25:13-41
+34-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:26:13-41
 35            android:screenOrientation="portrait" />
-35-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:26:13-49
+35-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:27:13-49
 36        <activity
 36-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
 37            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
