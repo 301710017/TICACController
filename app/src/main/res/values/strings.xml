@@ -1,16 +1,18 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">TIC AC Controller</string>
-    <string name="Password">Contraseña</string>
-    <string name="Email">Correo electrónico</string>
-    <string name="btnLogin">Ingresar</string>
-    <string name="btnRegister">Registrarse</string>
-    <string name="Pwd" tools:ignore="MissingTranslation">Confirmar contraseña</string>
-    <string name="btnCount" tools:ignore="MissingTranslation">Crear cuenta</string>
-    <string name="Forgot" tools:ignore="MissingTranslation">¿Olvidaste tu contraseña?</string>
-    <string name="SingIn" tools:ignore="MissingTranslation">Iniciar sesión</string>
-    <string name="ReadyAccount" tools:ignore="MissingTranslation">¿Tienes una cuenta?</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email Address</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="Pwd" tools:ignore="MissingTranslation">Confirm Password</string>
+    <string name="btnCount" tools:ignore="MissingTranslation">Create account</string>
+    <string name="Forgot" tools:ignore="MissingTranslation">Forgot your password??</string>
+    <string name="SingIn" tools:ignore="MissingTranslation">Log In</string>
+    <string name="ReadyAccount" tools:ignore="MissingTranslation">Do you have an account?</string>
     <string name="txtSingUp" tools:ignore="MissingTranslation">No tener cuenta</string>
-    <string name="From_UTe" tools:ignore="MissingTranslation">From UTE</string>
+    <string name="txtAccount" tools:ignore="MissingTranslation">Crear cuenta</string>
+
+
 
 
 </resources>

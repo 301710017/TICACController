@@ -6,8 +6,9 @@
     <string name="btnRegister">Register</string>
     <string name="btnLogin">Login</string>
     <string name="Pwd">Confirm Password</string>
-    <string name="btnCount">Create an account</string>
+    <string name="btnCount">Create account</string>
     <string name="Forgot">Forgot your password?</string>
     <string name="SingIn">Log In</string>
+    <string name="txtSingUp" >I don´t have account</string>
     <string name="ReadyAccount">Do you have an account?</string>
 </resources>

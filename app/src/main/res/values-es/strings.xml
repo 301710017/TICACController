@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TIC AC Controller</string>
+    <string name="Password" tools:ignore="DuplicateDefinition">Contraseña</string>
+    <string name="Email">Correo electrónico</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="btnRegister">Registrarse</string>
+    <string name="Pwd" >Confirmar contraseña</string>
+    <string name="btnCount">Crear cuenta</string>
+    <string name="Forgot" >¿Olvidaste tu contraseña?</string>
+    <string name="SingIn" >Iniciar sesión</string>
+    <string name="ReadyAccount" >¿Tienes una cuenta?</string>
+    <string name="txtSingUp" >No tengo cuenta</string>
+    <string name="txtAccount" >Crear cuenta</string>
+</resources>
