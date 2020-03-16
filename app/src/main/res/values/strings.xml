@@ -9,6 +9,8 @@
     <string name="Forgot" tools:ignore="MissingTranslation">¿Olvidaste tu contraseña?</string>
     <string name="SingIn" tools:ignore="MissingTranslation">Iniciar sesión</string>
     <string name="ReadyAccount" tools:ignore="MissingTranslation">¿Tienes una cuenta?</string>
+    <string name="txtSingUp" tools:ignore="MissingTranslation">No tener cuenta</string>
+    <string name="From_UTe" tools:ignore="MissingTranslation">From UTE</string>
 
 
 </resources>

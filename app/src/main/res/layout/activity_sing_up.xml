@@ -78,7 +78,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/crear_cuenta"
+        android:id="@+id/btnSingUp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -104,7 +104,7 @@
         android:textSize="16sp"
         app:layout_constraintEnd_toStartOf="@+id/btnSingIn"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/crear_cuenta" />
+        app:layout_constraintTop_toBottomOf="@+id/btnSingUp" />
 
     <Button
         android:id="@+id/btnSingIn"
@@ -118,7 +118,7 @@
         android:textColor="#fff"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/txtReady"
-        app:layout_constraintTop_toBottomOf="@+id/crear_cuenta" />
+        app:layout_constraintTop_toBottomOf="@+id/btnSingUp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -669,6 +669,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
+drawable fromute
 drawable google
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
@@ -738,6 +739,7 @@ id bottom
 id btnLogin
 id btnRegister
 id btnSingIn
+id btnSingUp
 id buttonPanel
 id center
 id center_horizontal
@@ -750,7 +752,6 @@ id clip_vertical
 id collapseActionView
 id content
 id contentPanel
-id crear_cuenta
 id custom
 id customPanel
 id dark
@@ -767,6 +768,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
+id fromute
 id gone
 id group_divider
 id groups
@@ -895,6 +897,7 @@ layout abc_tooltip
 layout activity_login
 layout activity_main
 layout activity_sing_up
+layout activity_splash_screen
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -910,6 +913,7 @@ mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string Email
 string Forgot
+string From_UTe
 string Password
 string Pwd
 string ReadyAccount
@@ -985,6 +989,7 @@ string google_storage_bucket
 string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
+string txtSingUp
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
