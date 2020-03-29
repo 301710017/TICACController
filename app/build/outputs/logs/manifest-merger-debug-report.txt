@@ -85,31 +85,33 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Us
 	android:theme
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-59
 activity#com.example.ticaccontroller.SplashScreen
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:14:13-49
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:27-74
-activity#com.example.ticaccontroller.SingUp
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:20:9-22:52
-	android:screenOrientation
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:22:13-49
-	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:21:13-35
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.ticaccontroller.LoginActivity
-ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:24:9-27:20
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:23:9-25:61
 	android:screenOrientation
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:25:13-49
 	android:name
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:25:13-42
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:24:13-42
+activity#com.example.ticaccontroller.SingUp
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:26:9-28:52
+	android:screenOrientation
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:27:13-35
 activity#com.example.ticaccontroller.MainActivity
 ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:29:9-31:52
 	android:screenOrientation

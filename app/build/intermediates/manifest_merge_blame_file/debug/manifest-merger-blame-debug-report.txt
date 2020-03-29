@@ -28,77 +28,79 @@
 19        android:testOnly="true"
 20        android:theme="@style/Theme.AppCompat.NoActionBar" >
 20-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-59
-21        <activity android:name="com.example.ticaccontroller.SplashScreen" >
-21-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:19-47
-22            <intent-filter>
-22-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:14:17-69
-23-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:17-77
-25-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28        <activity
-28-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:20:9-22:52
-29            android:name="com.example.ticaccontroller.SingUp"
-29-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:21:13-35
-30            android:screenOrientation="portrait" />
-30-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:22:13-49
-31        <activity
-31-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:24:9-27:20
-32            android:name="com.example.ticaccontroller.LoginActivity"
-32-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:25:13-42
-33            android:screenOrientation="portrait" >
-33-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:26:13-49
-34        </activity>
-35        <activity
-35-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:29:9-31:52
-36            android:name="com.example.ticaccontroller.MainActivity"
-36-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:30:13-41
-37            android:screenOrientation="portrait" />
-37-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:31:13-49
-38        <activity
-38-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
-39            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-39-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
-40            android:excludeFromRecents="true"
-40-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
-41            android:exported="false"
-41-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
-42            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-42-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
-43        <!--
-44            Service handling Google Sign-In user revocation. For apps that do not integrate with
-45            Google Sign-In, this service will never be started.
-46        -->
-47        <service
-47-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
-48            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-48-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
-49            android:exported="true"
-49-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
-50            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-50-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
-51
-52        <activity
-52-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b989d78505a527364775fcd163b70614\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-53            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-53-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b989d78505a527364775fcd163b70614\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-54            android:exported="false"
-54-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b989d78505a527364775fcd163b70614\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-55            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-55-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b989d78505a527364775fcd163b70614\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-56
-57        <meta-data
-57-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\13b1c7be11dc11a532dedab703de95ef\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-58            android:name="com.google.android.gms.version"
-58-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\13b1c7be11dc11a532dedab703de95ef\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-59            android:value="@integer/google_play_services_version" />
-59-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\13b1c7be11dc11a532dedab703de95ef\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-60    </application>
-61
-62</manifest>
+21        <activity
+21-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:9-21:20
+22            android:name="com.example.ticaccontroller.SplashScreen"
+22-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:13:19-47
+23            android:screenOrientation="portrait" >
+23-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:14:13-49
+24            <intent-filter>
+24-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:17:17-69
+25-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:17-77
+27-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:19:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:23:9-25:61
+31            android:name="com.example.ticaccontroller.LoginActivity"
+31-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:24:13-42
+32            android:screenOrientation="portrait" />
+32-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:25:13-49
+33        <activity
+33-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:26:9-28:52
+34            android:name="com.example.ticaccontroller.SingUp"
+34-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:27:13-35
+35            android:screenOrientation="portrait" />
+35-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:28:13-49
+36        <activity
+36-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:29:9-31:52
+37            android:name="com.example.ticaccontroller.MainActivity"
+37-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:30:13-41
+38            android:screenOrientation="portrait" />
+38-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:31:13-49
+39        <activity
+39-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+40            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+40-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+41            android:excludeFromRecents="true"
+41-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+42            android:exported="false"
+42-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+43            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+43-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+44        <!--
+45            Service handling Google Sign-In user revocation. For apps that do not integrate with
+46            Google Sign-In, this service will never be started.
+47        -->
+48        <service
+48-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+49            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+49-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+50            android:exported="true"
+50-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+51            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+51-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59706fb0cd949f5b3e2f42e1e02500e1\play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+52
+53        <activity
+53-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b989d78505a527364775fcd163b70614\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+54            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+54-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b989d78505a527364775fcd163b70614\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+55            android:exported="false"
+55-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b989d78505a527364775fcd163b70614\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+56-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b989d78505a527364775fcd163b70614\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+57
+58        <meta-data
+58-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\13b1c7be11dc11a532dedab703de95ef\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+59            android:name="com.google.android.gms.version"
+59-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\13b1c7be11dc11a532dedab703de95ef\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+60            android:value="@integer/google_play_services_version" />
+60-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\13b1c7be11dc11a532dedab703de95ef\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+61    </application>
+62
+63</manifest>

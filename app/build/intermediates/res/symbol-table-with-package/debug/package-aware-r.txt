@@ -669,7 +669,6 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
-drawable fromute
 drawable google
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
@@ -699,6 +698,7 @@ id ConfirmPassword
 id Email
 id FUNCTION
 id ImgLogo
+id Logo
 id META
 id Password
 id SHIFT
@@ -768,7 +768,6 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
-id fromute
 id gone
 id group_divider
 id groups
@@ -852,6 +851,8 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id txtCompany
+id txtFrom
 id txtReady
 id uniform
 id up
@@ -913,7 +914,6 @@ mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string Email
 string Forgot
-string From_UTe
 string Password
 string Pwd
 string ReadyAccount
@@ -989,6 +989,7 @@ string google_storage_bucket
 string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
+string txtAccount
 string txtSingUp
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

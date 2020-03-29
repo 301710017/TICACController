@@ -19,7 +19,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
-        <activity android:name="com.example.ticaccontroller.SplashScreen" >
+        <activity
+            android:name="com.example.ticaccontroller.SplashScreen"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,12 +29,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.ticaccontroller.SingUp"
+            android:name="com.example.ticaccontroller.LoginActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.example.ticaccontroller.LoginActivity"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:name="com.example.ticaccontroller.SingUp"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.example.ticaccontroller.MainActivity"
             android:screenOrientation="portrait" />
