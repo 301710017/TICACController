@@ -1,7 +1,7 @@
-#Sun Mar 29 08:06:28 CST 2020
-base.0=C\:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Mon Apr 06 16:51:50 CDT 2020
+base.0=C\:\\Users\\AntonioGamboa\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Users\\AntonioGamboa\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
