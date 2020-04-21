@@ -52,12 +52,14 @@ public class SingUp extends AppCompatActivity {
         btnSingUp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //Validamos que el campo de password y confirmar password sean iguales
                 if(edtPassword.getText().toString().equals(edtCoPassword.getText().toString())){
                     ejecutarServicio("https://uteag1999.000webhostapp.com/Accontroller/insertar_usuario.php");
                     Intent i = new Intent(SingUp.this, LoginActivity.class);
                     SingUp.this.startActivity(i);
                     SingUp.this.finish();
 
+                    //Mostramos un mensaje de error en caso de que las contraseñas no coincidan
                 }else{
                     AlertDialog.Builder alerta = new AlertDialog.Builder(SingUp.this);
                     alerta.setMessage("Las contraseñas no coinciden")
